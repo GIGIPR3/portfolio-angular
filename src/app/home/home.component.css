@@ -14,7 +14,7 @@
 
 button{
   background-color: rgba(255, 255, 255, 0);
-  color: #00F7FF;
+  color: #ffffff;
   border: 1px solid #00F7FF;
   padding: 8px;
   border-radius: 10px;
@@ -68,6 +68,95 @@ li{
   bottom: 30px;
   right: 45px;
 }
+
+@media screen and ( min-width: 425px ){
+
+  .titolo{
+    font-size: 54px;
+  }
+
+}
+
+@media screen and ( min-width: 992px ){
+
+  .titolo{
+    font-size: 60px;
+  }
+
+  .linea{
+    height: 60vh;
+  }
+
+  .contenitore{
+    height: 65vh;
+  }
+
+  .sottotitolo2{
+    width: 430px;
+  }
+
+}
+
+@media screen and ( min-width: 1200px ){
+
+  .titolo{
+    font-size: 80px;
+  }
+
+  .linea{
+    height: 55vh;
+  }
+
+  .contenitore{
+    height: 65vh;
+  }
+
+  .sottotitolo{
+    font-size: 23px;
+  }
+
+  .sottotitolo2{
+    font-size: 19px;
+    width: 430px;
+  }
+
+}
+
+@media screen and ( min-width: 1400px ){
+
+  .titolo{
+    font-size: 120px;
+  }
+
+  .linea{
+    height: 55vh;
+  }
+
+  .contenitore{
+    height: 65vh;
+  }
+
+  .sottotitolo{
+    font-size: 23px;
+  }
+
+  .sottotitolo2{
+    font-size: 19px;
+    width: 430px;
+  }
+
+  .content{
+    margin-right: 140px;
+  }
+
+}
+
+
+
+
+
+
+
 
 
 
