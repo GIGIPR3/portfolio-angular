@@ -10,12 +10,41 @@ li{
   font-size: 16px;
 }
 
-
-
 .navbar1{
   height: 12vh;
 }
 
+.sfondo-immagine{
+   width: 240px;
+   height: 300px;
+   background-color: #000000;
+   box-shadow: 18px 17px 0px 2px #00878B;
+}
+
+img{
+  filter: grayscale(100%);
+}
+
+.testo{
+  font-size: 20px;
+  color: #8D8D8D;
+  margin-top: 15px;
+}
+
+.bold{
+  color: #00F7FF;
+  font-weight: 600;
+}
+
+.titolo{
+  color: #00F7FF;
+  font-size: 40px;
+  margin-top: 60px;
+}
+
+.container{
+  padding-bottom: 70px;
+}
 
 
 
