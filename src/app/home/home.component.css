@@ -1,0 +1,74 @@
+.altezza{
+  height: 88vh;
+  position: relative;
+}
+
+.icone{
+  font-size: 26px;
+  color: #00F7FF;
+}
+
+.navbar1{
+  height: 12vh;
+}
+
+button{
+  background-color: rgba(255, 255, 255, 0);
+  color: #00F7FF;
+  border: 1px solid #00F7FF;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+span{
+  color: #00F7FF;
+}
+
+.titolo{
+  font-size: 48px;
+}
+
+.contenitore{
+  height: 70vh;
+}
+
+.linea{
+  height: 65vh;
+  width: 4px;
+  background-color: #00F7FF;
+  border-radius: 10px;
+}
+
+.sottotitolo{
+  color: #00878B;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.sottotitolo2{
+  color: #8D8D8D;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+ul{
+  margin: 0px;
+  padding: 0px;
+}
+
+li{
+  color: #00F7FF;
+  list-style-type: none;
+  text-align: end;
+  font-size: 23px;
+}
+
+.menu{
+  position: absolute;
+  bottom: 30px;
+  right: 45px;
+}
+
+
+
+/*  */
