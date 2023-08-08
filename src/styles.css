@@ -5,7 +5,11 @@ body{
   overflow-x: hidden;
 }
 
-
+@media screen and (min-width: 992px){
+  body{
+    overflow: hidden;
+  }
+}
 
 
 

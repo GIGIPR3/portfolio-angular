@@ -68,6 +68,11 @@ li{
   cursor: pointer;
 }
 
+li:hover{
+  color: white;
+  transition: 0.2s;
+}
+
 .menu{
   position: absolute;
   bottom: 30px;
