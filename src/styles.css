@@ -2,6 +2,7 @@
 body{
   background-color: #002327;
   font-family: 'JetBrains Mono', monospace;
+  overflow-x: hidden;
 }
 
 

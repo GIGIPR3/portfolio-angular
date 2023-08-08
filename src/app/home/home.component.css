@@ -1,3 +1,6 @@
+.scroll{
+  overflow: hidden;
+}
 
 .altezza{
   height: 88vh;
@@ -62,6 +65,7 @@ li{
   list-style-type: none;
   text-align: end;
   font-size: 23px;
+  cursor: pointer;
 }
 
 .menu{

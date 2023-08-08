@@ -8,6 +8,7 @@ li{
   list-style-type: none;
   text-align: end;
   font-size: 16px;
+  cursor: pointer;
 }
 
 .navbar1{
