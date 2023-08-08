@@ -9,7 +9,7 @@ export class PortfolioComponent {
 
   cards = [
     {
-      titolo:'Seven Yacht Vieste', img: '../../assets/sevenyacht.png', collegamento:''
+      titolo:'Seven Yacht Vieste', img: '../../assets/sevenyacht.webp', collegamento:''
     }
   ]
 
