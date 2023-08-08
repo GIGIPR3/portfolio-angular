@@ -19,3 +19,39 @@ li:hover{
 .navbar1{
   height: 12vh;
 }
+
+.flexata{
+  height: 80vh;
+}
+
+.icona{
+  font-size: 50px;
+  color: #00F7FF;
+}
+
+.linea{
+  width: 3px;
+  background-color: #00F7FF;
+  height: 70px;
+}
+
+.fa-solid, .fa-brands{
+  text-decoration: none;
+  color: #00F7FF;
+}
+
+a{
+  text-decoration: none;
+}
+
+span{
+  color: white;
+  font-size: 20px;
+}
+
+
+
+
+
+
+/*  */
