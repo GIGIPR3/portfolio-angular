@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { ChisonoComponent } from './chisono/chisono.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
+import { ContattamiComponent } from './contattami/contattami.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     ChisonoComponent,
-    PortfolioComponent
+    PortfolioComponent,
+    ContattamiComponent
   ],
   imports: [
     BrowserModule,
