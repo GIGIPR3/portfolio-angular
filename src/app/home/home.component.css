@@ -105,6 +105,10 @@ li:hover{
     width: 430px;
   }
 
+  li{
+    font-size: 30px;
+  }
+
 }
 
 @media screen and ( min-width: 1200px ){

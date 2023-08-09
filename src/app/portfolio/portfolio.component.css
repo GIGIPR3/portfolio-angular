@@ -69,10 +69,29 @@ a{
   color: #00F7FF;
 }
 
+@media screen and (min-width:768px){
+  .flexata{
+    flex-direction: row !important;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
 
+@media screen and (min-width: 992px){
+  .foto{
+    width: 400px;
+    height: 250px;
+  }
 
+  .testo{
+    width: 400px;
+    height: 50px;
+  }
 
-
+  li{
+    font-size: 25px;
+  }
+}
 
 
 
