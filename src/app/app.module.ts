@@ -8,13 +8,15 @@ import { ChisonoComponent } from './chisono/chisono.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { ContattamiComponent } from './contattami/contattami.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     ChisonoComponent,
     PortfolioComponent,
-    ContattamiComponent
+    ContattamiComponent,
+
   ],
   imports: [
     BrowserModule,
